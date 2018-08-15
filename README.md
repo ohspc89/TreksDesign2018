@@ -1,2 +1,3 @@
 # TreksDesign2018
-For a sightseeing session
+
+I am creating this repository to show people how to work with Github. Have fun!
